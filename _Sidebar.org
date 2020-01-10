@@ -1,1 +1,1 @@
-*[[https://github.com/octocat/Hello-World.wiki.git]]*[[https://github.com/octocat/,Hello-World.wiki.git/Nizardr58-patch-1]]*
+*[[https://github.com/octocat/Hello-World.wiki.git/Merged/https://github.com/octocat/,Hello-World.wiki.git/Nizardr58-patch-1]]*
