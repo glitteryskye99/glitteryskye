@@ -1,0 +1,1 @@
+Indeed i was able to create a new page
